@@ -1,0 +1,36 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-vue/src/index.scss';
+//FontAwsome
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+
+.el-picker-panel__body{
+    background-color: $fancyOrange;
+}
+
+.el-date-editor .el-range-separator  {
+    padding: 0 15px !important;
+}
+.el-date-editor.el-input, .el-date-editor.el-input__inner{
+    width: 100% !important;
+}
+#datepicker-placeholder__dialog_{
+    left: -50% !important;
+    background-color: $fancyOrange;
+}
+
+.b-calendar-grid-body .btn border-0 rounded-circle text-nowrap btn-light font-weight-bold {
+    background-color: red !important;
+}
+
+
