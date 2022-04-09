@@ -33,7 +33,7 @@
         "animejs": "^3.2.0",
         "bootstrap-vue": "^2.15.0",
         "element-ui": "^2.13.2",
-        "moment": "^2.26.0",
+        "moment": "^2.29.2",
         "vue-material-design-icons": "^4.7.1",
         "vue-router": "^3.3.2",
         "vue-sidebar-menu": "^4.5.4",
